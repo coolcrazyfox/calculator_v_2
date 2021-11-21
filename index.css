@@ -1,5 +1,5 @@
 body{
-    background:  no-repeat url("https://i.pinimg.com/originals/71/ea/bd/71eabd1fecc992073751bb42a205144f.gif");
+    background:   url("https://i.pinimg.com/originals/71/ea/bd/71eabd1fecc992073751bb42a205144f.gif") no-repeat;
     background-size: 100%;
     user-select: none;
 }
@@ -7,15 +7,16 @@ body{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 4px;
-    background-color: rgb(15, 15, 15);
+    background-color: rgb(203, 165, 204);
     padding: 4px;
     border-radius: 8px;
     max-width: 360px;
     font-family: "Tahoma";
 }
 .item{
-    background-color: rgb(185, 238, 160);
-    color: blueviolet;
+    background: url("https://gif-kartinki.ru/fony/zelenyj-fon_05.gif");
+    
+    color: rgb(115, 90, 175);
     padding: 20px;
     display: flex;
     justify-content: center;
