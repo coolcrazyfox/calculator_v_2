@@ -46,6 +46,8 @@ input{
 }
 .back{
     grid-column: 3/-1;
+    background: url("https://i.gifer.com/origin/b4/b46561f0b395a1d7b4b74b96c7df10b2_w200.webp");
+    background-position: center;
 }
 .equal{
     grid-column: 4;
