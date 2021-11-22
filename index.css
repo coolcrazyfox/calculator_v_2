@@ -53,8 +53,7 @@ input{
     grid-column: 4;
     grid-row: 6/8;
     background: url("https://i.gifer.com/origin/93/935d72c7bc35828ea93b5898691f28fd_w200.webp");
-    background-position: center;
-    
+    background-position: center;    
 }
 .zero{
     grid-column: 1/3 ;
