@@ -14,14 +14,14 @@ body{
     font-family: "Tahoma";
 }
 .item{
-    background: url("https://gif-kartinki.ru/fony/zelenyj-fon_05.gif");
-    
-    color: rgb(115, 90, 175);
+    background: url("https://i.gifer.com/origin/93/935d72c7bc35828ea93b5898691f28fd_w200.webp");
+    background-position: center;
+    color: rgb(255, 255, 255);
     padding: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 23px;
+    font-size: 28px;
     cursor: pointer;
     font-weight: bold;
 }
